@@ -1,5 +1,7 @@
 <h1 align="center">Hey 👋, I'm Manisha Sharma</h1>
-<h3 align="center">I am a CSE Undergraduate Student at Maryland Institute of Technology and Management, Jamshedpur. Currently Working as Junior Technical Assistant at C-DAC. I love learning new technologies and recently started exploring Python. Currently looking for Opportunities in domain of Python Developer roles.</h3>
+<h3 align="center">I am a dedicated Computer Science and Engineering undergraduate student at the prestigious Maryland Institute of Technology and Management in Jamshedpur. As I continue my academic journey, I am simultaneously gaining valuable real-world experience in the tech industry as a Junior Technical Assistant at C-DAC. My passion for learning drives me to constantly explore new technologies, and my latest fascination is with Python. I am enthusiastic about its versatility and the endless possibilities it offers for solving complex problems and creating innovative solutions.
+
+I am now actively seeking opportunities in the domain of Python Developer roles, where I can apply my growing expertise and contribute to exciting projects. My educational background, coupled with my practical experience and eagerness to stay at the forefront of technology, make me a motivated candidate ready to take on new challenges and make a meaningful impact in the world of software development.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manisha1721" alt="manisha1721" /></a> </p>
 
